@@ -69,7 +69,7 @@ const Random = ReactDOM.createRoot(document.getElementById('Random'));
 Random.render(
   <>
   <br></br>
-  <h1>Zufällige Zahl = {ZufaelligeZahl()}</h1>
+  <p>Zufällige Zahl = {ZufaelligeZahl()}</p>
   </>
 );
 
@@ -89,6 +89,6 @@ const Saat = ReactDOM.createRoot(document.getElementById('Zeit'));
 
 Saat.render(
   <>
-  <h1>Datum = {Zeit()}</h1>
+  <p>Datum = {Zeit()}</p>
   </>
 );
