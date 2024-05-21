@@ -1,0 +1,17 @@
+.Farbe {
+    font-size: 50px;
+    color: green ;
+    border: groove;
+    border-bottom: solid red;
+
+}
+
+.AndereKlasse {
+    display: flex;
+    border:dashed ;
+    color: rgb(255, 0, 0);
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    text-align: center;
+}
